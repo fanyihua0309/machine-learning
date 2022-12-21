@@ -1,0 +1,12 @@
+# pycharm
+.idea/
+.DS_Store
+__pycharm__/
+*.py[cod]
+*$py.class
+
+# model
+model/
+
+# log
+log.txt
